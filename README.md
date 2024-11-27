@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, sou o Marcos Pinheiro 👨‍💻
 
-<!--
-**marcos-mobdev/marcos-mobdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor Android e apaixonado por tecnologia.
+### 👀 Estou buscando uma vaga no momento 👀
 
-Here are some ideas to get you started:
+## ⚡ Habilidades
+- Desenvolvimento Android (Kotlin e Java)
+- Desenvolvimento Híbrido (Dart/Flutter)
+- Arquiteturas MVC, MVP, MVVM
+- Clean Architecture
+- Injeção de dependências com Hilt
+- APis com Retrofit, Coroutines
+- Git e GitHub
+- Firebase, SQLite e SQL
+- Jetpack (LiveData, DataBinding, ViewModel, Room, WorkManager, Navigation e Compose)
+- Scrum
+- Publicação (Play Store)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Estudando
+- Testes unitários e de integração
+- Service e Broadcast
+- SOLID
+- Jetpack Compose
+- CI/CD
+
+## 📫 Entre em contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pinheiro-marcos/)
+
