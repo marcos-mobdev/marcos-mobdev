@@ -11,7 +11,7 @@ Sou desenvolvedor Android e apaixonado por tecnologia.
 - APis com Retrofit, Coroutines
 - Git e GitHub
 - Firebase, SQLite e SQL
-- Jetpack (LiveData, DataBinding, ViewModele)
+- Jetpack (LiveData, DataBinding, ViewModel)
 - Scrum
 - Publicação (Play Store)
 
