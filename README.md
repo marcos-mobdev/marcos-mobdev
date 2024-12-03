@@ -1,6 +1,6 @@
 # Olá, sou o Marcos Pinheiro 👨‍💻
 
-Sou desenvolvedor Android e apaixonado por tecnologia.
+Sou um desenvolvedor Android apaixonado por tecnologia, sempre em busca de crescimento e novas formas de superar desafios. Meu objetivo é transformar ideias em soluções digitais eficientes, entregando valor e qualidade para usuários e empresas.
 ### 👀 Estou buscando uma vaga no momento 👀
 
 ## ⚡ Habilidades
