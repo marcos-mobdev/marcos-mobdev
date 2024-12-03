@@ -18,7 +18,7 @@ Sou desenvolvedor Android e apaixonado por tecnologia.
 ## 📚 Estudando
 - Testes unitários e de integração
 - SOLID, Clean Code
-- Room, WorkManager, Navigation e Compos
+- Room, WorkManager, Navigation e Compose
 - Service e Broadcast
 - Jetpack Compose
 - CI/CD
