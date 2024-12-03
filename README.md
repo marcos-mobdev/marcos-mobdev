@@ -6,20 +6,20 @@ Sou desenvolvedor Android e apaixonado por tecnologia.
 ## ⚡ Habilidades
 - Desenvolvimento Android (Kotlin e Java)
 - Desenvolvimento Híbrido (Dart/Flutter)
-- Arquiteturas MVC, MVP, MVVM
-- Clean Architecture
+- Arquiteturas MVC, MVP, MVVM, Clean Architecture
 - Injeção de dependências com Hilt
 - APis com Retrofit, Coroutines
 - Git e GitHub
 - Firebase, SQLite e SQL
-- Jetpack (LiveData, DataBinding, ViewModel, Room, WorkManager, Navigation e Compose)
+- Jetpack (LiveData, DataBinding, ViewModele)
 - Scrum
 - Publicação (Play Store)
 
 ## 📚 Estudando
 - Testes unitários e de integração
+- SOLID, Clean Code
+- Room, WorkManager, Navigation e Compos
 - Service e Broadcast
-- SOLID
 - Jetpack Compose
 - CI/CD
 
