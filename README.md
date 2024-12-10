@@ -8,6 +8,8 @@ Sou um desenvolvedor Android apaixonado por tecnologia, sempre em busca de cresc
 - Desenvolvimento Híbrido (Dart/Flutter)
 - Arquiteturas MVC, MVP, MVVM, Clean Architecture
 - Injeção de dependências com Hilt
+- Testes unitários e de integração
+- SOLID, Clean Code
 - APis com Retrofit, Coroutines
 - Git e GitHub
 - Firebase, SQLite e SQL
@@ -16,8 +18,6 @@ Sou um desenvolvedor Android apaixonado por tecnologia, sempre em busca de cresc
 - Publicação (Play Store)
 
 ## 📚 Estudando
-- Testes unitários e de integração
-- SOLID, Clean Code
 - Room, WorkManager, Navigation e Compose
 - Service e Broadcast
 - Jetpack Compose
