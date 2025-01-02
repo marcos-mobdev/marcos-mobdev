@@ -13,14 +13,15 @@ Sou um desenvolvedor Android apaixonado por tecnologia, sempre em busca de cresc
 - APis com Retrofit, Coroutines
 - Git e GitHub
 - Firebase, SQLite e SQL
-- Jetpack (LiveData, DataBinding, ViewModel)
+- Jetpack (LiveData, DataBinding, ViewModel, WorkManager)
+- Service e Broadcast
 - Scrum
 - Publicação (Play Store)
 
 ## 📚 Estudando
-- Room, WorkManager, Navigation e Compose
-- Service e Broadcast
+- Room
 - Jetpack Compose
+- Navigation
 - CI/CD
 
 ## 📫 Entre em contato
