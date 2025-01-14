@@ -1,7 +1,6 @@
 # Olá, sou o Marcos Pinheiro 👨‍💻
 
 Sou um desenvolvedor Android apaixonado por tecnologia, sempre em busca de crescimento e novas formas de superar desafios. Meu objetivo é transformar ideias em soluções digitais eficientes, entregando valor e qualidade para usuários e empresas.
-### 👀 Estou buscando uma vaga no momento 👀
 
 ## ⚡ Habilidades
 - Desenvolvimento Android (Kotlin e Java)
@@ -12,14 +11,13 @@ Sou um desenvolvedor Android apaixonado por tecnologia, sempre em busca de cresc
 - SOLID, Clean Code
 - APis com Retrofit, Coroutines
 - Git e GitHub
-- Firebase, SQLite e SQL
-- Jetpack (LiveData, DataBinding, ViewModel, WorkManager)
+- Firebase, SQLite, SQL
+- Jetpack (LiveData, DataBinding, ViewModel, WorkManager, Room)
 - Service e Broadcast
 - Scrum
 - Publicação (Play Store)
 
 ## 📚 Estudando
-- Room
 - Jetpack Compose
 - Navigation
 - CI/CD
